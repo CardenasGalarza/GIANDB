@@ -6,7 +6,7 @@ setup(
     license='MIT',
     description="paquete gian de insertar data dba",
     author="Gianacarlos Cardenas Galarza",
-    install_requires=['math', 'numpy'],
+    install_requires=['numpy'],
     author_email="alex10estadistica@gmail.com",
     packages=find_packages(),
     url="https://github.com/CardenasGalarza/GIANDB",
