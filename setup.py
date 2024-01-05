@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='giandb',
-    version='0.0.1',  # Cambia la versión a la nueva
+    version='0.0.2',  # Cambia la versión a la nueva
     license='MIT',
     description="paquete gian de insertar data dba",
     author="Gianacarlos Cardenas Galarza",
